@@ -1,0 +1,5 @@
+classes = 2
+train = /content/darknet/YOLO_Custom2/train.txt
+valid = /content/darknet/YOLO_Custom2/test.txt
+names = /content/darknet/YOLO_Custom2/obj.names
+backup = /content/darknet
