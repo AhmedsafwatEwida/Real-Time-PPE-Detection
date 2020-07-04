@@ -6,4 +6,5 @@
 ![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/4.png)
 ![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/5.png)
 ![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/6.png)
-![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/image-19.png)
+![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/image-19.jpg)
+![alt text](https://github.com/AhmedsafwatEwida/Real-Time-PPE-Detection/blob/master/images/image-36.jpg)
